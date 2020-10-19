@@ -5,7 +5,7 @@
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/samir321-pixel/Django_Graphene.git
+git clone https://github.com/samir321-pixel/Django_Rest_Framewwork.git
 ```
 
 
