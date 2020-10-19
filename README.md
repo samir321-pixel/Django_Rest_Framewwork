@@ -9,6 +9,12 @@ git clone https://github.com/samir321-pixel/Django_Rest_Framewwork.git
 ```
 
 
+## Install Requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Apply the migrations:
 
@@ -22,6 +28,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-The project will be available at **http://127.0.0.1:8000/graphql/**.
+The project will be available at **http://127.0.0.1:8000/**.
 
 Hit the Queries From query.txt File
