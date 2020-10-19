@@ -1,0 +1,12 @@
+#Create
+{
+"title": "Manage Attendence",
+"completed": false
+}
+
+#Update Query
+{
+"id": 2,
+"title": "Manage Attendence Updated",
+"completed": true
+}
