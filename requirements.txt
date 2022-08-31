@@ -3,4 +3,4 @@ Django==3.2.14
 django-rest-framework==0.1.0
 djangorestframework==3.12.1
 pytz==2020.1
-sqlparse==0.4.1
+sqlparse==0.4.2
